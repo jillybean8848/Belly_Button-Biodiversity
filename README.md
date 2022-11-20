@@ -4,6 +4,7 @@
 In this project we used JavaScript to build an interactive dashboard to dataset which catalogs the bacteria living in human belly buttons.
 
 This dashboard shows:
+
 *dropdown to examine data from each individual
 *bar chart featuring the top ten microbial species (OTUs or operational taxonomic units)
 *bubble chart featuring all microbial species

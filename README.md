@@ -1,7 +1,7 @@
 # Belly_Button-Biodiversity
 
 ## Overview
-In this project we enabled JavaScript to build an interactive dashboard to dataset which catalogs the bacteria living in human belly buttons.
+In this project we enabled JavaScript to build an interactive dashboard which catalogs the bacteria living in human belly buttons.
 
 This dashboard showcases:
 
